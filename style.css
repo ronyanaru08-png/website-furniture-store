@@ -1,0 +1,116 @@
+body {
+    font-family: 'Montserrat', 'Arial';
+
+}
+
+header {
+     background-image: url(/images/image1.jpg);
+    background-size: 100%;
+    background-position: center;
+    bac
+}
+
+footer {
+    background-color:#F7F6F6;
+    padding: 20px;
+    font-weight: 500;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+nav p {
+    word-spacing: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+    margin-top: 20px;
+    padding-left: 50px;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 36px;
+    color: white;
+    margin-top: 20px;
+    padding-left: 50px;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 64px;
+    color: white;
+    margin-top: 25px;
+    padding-left: 50px;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 24px;
+    color: white;
+    margin-top: 28px;
+    padding-left: 50px;
+}
+
+a {
+    color: white;
+    padding-left: 50px;
+}
+
+.product__box {
+    gap: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 700px;
+    padding-bottom: 100px;
+    padding-left: 70px;
+}
+
+.image2 {
+    width: 379px;
+    height: 250px;
+}
+
+.image3 {
+    width: 379px;
+    height: 250px;
+}
+
+.image4 {
+    width: 379px;
+    height: 250px;
+}
+
+.image5 {
+    width: 379px;
+    height: 250px;
+}
+
+.image6 {
+    width: 379px;
+    height: 250px;
+}
+
+.image7 {
+    width: 379px;
+    height: 250px;
+}
+
+.product__card h3 {
+    font-size: 1.2rem;
+    margin: 10px 0;
+    color: black;
+}
+
+.product__card p {
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+}
+
+.product__card strong {
+    font-size: 1.1rem;
+    color: black;
+}
